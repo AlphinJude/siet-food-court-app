@@ -48,7 +48,7 @@ class _HomePageState extends State<HomePage> {
             height: size.height * 0.03,
           ),
           Text(
-            'Welcome, Richard Sanchez!',
+            'Welcome, Richard Sanch!',
             style: TextStyle(
               fontSize: 24,
               fontWeight: FontWeight.w500,
