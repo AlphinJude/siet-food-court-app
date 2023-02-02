@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>61652230453-qqalhj3urb0ivp8f4aserr6r58iv3an1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.61652230453-qqalhj3urb0ivp8f4aserr6r58iv3an1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDT0FGvfaK2WxuY4_X93xn0o9ZbJB17mMY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>61652230453</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.siet.foodCourt</string>
+	<key>PROJECT_ID</key>
+	<string>sri-shakthi-food-court</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sri-shakthi-food-court.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:61652230453:ios:49adb3d555dd2a8c192c7c</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61652230453",
+    "project_id": "sri-shakthi-food-court",
+    "storage_bucket": "sri-shakthi-food-court.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61652230453:android:54926b4baf19191b192c7c",
+        "android_client_info": {
+          "package_name": "com.siet.food_court"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61652230453-0lt3gd7emf0l8nk294ogo5247tknc1tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOFUZZVw7nq23aV_rB3vLcK4EmMg6BQKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61652230453-0lt3gd7emf0l8nk294ogo5247tknc1tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
